@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/1200px-Kan11Logo.svg.png" group-title="Live TV", Kan 11
+http://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Live TV", Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="Live TV", Adult Swim Black Jesus
