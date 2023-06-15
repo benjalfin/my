@@ -26,13 +26,13 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="Live TV", Super Tennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Live TV", Tennis Channel Live
-https://wiki.cdnhks.lol/wiki/wiki43b/playlist.m3u8|Referer=https://ntuplay.xyz/
+https://wiki.cdnhks.lol/wiki/wiki43b/tracks-v1a1/mono.m3u8|Referer=https://ntuplay.xyz/
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://www.tennischannel.app/image/original/6580da0c-bfd3-407e-ae12-144790330b17.png?v=20210527180713" group-title="Live TV", Tennis Channel Classics
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tc-logo-plus.png" group-title="Live TV", Tennis Channel Plus 1
-https://cnl.cdnhks.lol/cnl/tc_plus_1/playlist.m3u8|Referer=https://ntuplay.xyz/
+https://cnl.cdnhks.lol/cnl/tc_plus_1/tracks-v1a1/mono.m3u8|Referer=https://ntuplay.xyz/
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tc-logo-plus.png" group-title="Live TV", Tennis Channel Plus 2
-https://cnl.cdnhks.lol/cnl/tc_plus_2/playlist.m3u8|Referer=https://ntuplay.xyz/
+https://cnl.cdnhks.lol/cnl/tc_plus_2/tracks-v1a1/mono.m3u8|Referer=https://ntuplay.xyz/
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tc-logo-plus.png" group-title="Live TV", Tennis Channel Plus 3
 https://cnl.cdnhks.lol/cnl/tc_plus_3/playlist.m3u8|Referer=https://ntuplay.xyz/
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tc-logo-plus.png" group-title="Live TV", Tennis Channel Plus 4
