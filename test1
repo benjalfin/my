@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,Channel 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tc-logo-plus.png" group-title="Live TV", Tennis Channel Plus 3
+https://salamus2023.onlinehdhls.ru/wiki/wikiten1/playlist.m3u8|Referer=https://claplivehdplay.ru/
